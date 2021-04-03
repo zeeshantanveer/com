@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl": "https://rbhatia46.github.io/",
+    "imagebaseurl": "https://zeeshantanveer.github.io/",
     "name": "Zeeshan Tanveer",
     "role": "Software Engineer",
     "linkedinId": "My LinkedIn ID",
@@ -14,7 +14,7 @@ let resumeData = {
     ],
     "aboutme": "I am currently a senior software engineer at AlignPx Technologies Pvt limited. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address": "Pakistan",
-    "website": "https://rbhatia46.github.io",
+    "website": "https://zeeshantanveer.github.io",
     "education": [
         {
             "UniversityName": "Virtual University of Pakistan",
